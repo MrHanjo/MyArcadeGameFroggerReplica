@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 35px;
+}
+
+#playerstat {
+	font-family: 'Audiowide';
+	font-size: 26px;
+	color: yellow;
+	margin-top: 250px;
+	margin-left: 50px;
+}
+
+p {
+    font-family: 'Audiowide';
+	font-size: 26px;
+    color: yellow;
+    text-align: center;
+}
